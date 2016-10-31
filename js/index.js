@@ -9,3 +9,18 @@ var one = {
 var whatyouget = function (break, break2, sticker, shirt, yukiosingz) {
 	document.getElementById('result') math.random() math.floor(0) math.roof(11)
 }
+if (one; yukiosingz <= 1) {
+	console.log(whatyouget(0,0,0,0,1))
+}
+else if (one; shirt <= 1) {
+	console.log(whatyouget(0,0,0,1,0))
+}
+else if (one; sticker <= 1) {
+	console.log(whatyouget(0,0,1,0,0))
+}
+else if (one; break2 <= 1) {
+	console.log(whatyouget(0,1,0,0,0))
+}
+else if (one; sticker <= 1) {
+	console.log(whatyouget(1,0,0,0,0))
+}
