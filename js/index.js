@@ -4,10 +4,10 @@ var one = {
 	break2: 0,
 	sticker: 0,
 	shirt: 0,
-	yukiosingz: 1
+	yukiosingz: 0
 };
 var whatyouget = function (break, break2, sticker, shirt, yukiosingz) {
-	document.getElementById('result') math.random() math.floor(0) math.roof(11)
+	document.getElementById("result") math.random() math.floor(0) math.roof(11)
 }
 if (one; yukiosingz <= 1) {
 	console.log(whatyouget(0,0,0,0,1))
@@ -24,3 +24,7 @@ else if (one; break2 <= 1) {
 else if (one; sticker <= 1) {
 	console.log(whatyouget(1,0,0,0,0))
 }
+else{
+	console.log("trains")
+}
+whatyouget(1,0,0,0,0)
