@@ -27,4 +27,4 @@ else if (one; sticker <= 1) {
 else{
 	console.log("trains")
 }
-whatyouget(1,0,0,0,0)
+whatyouget()
